@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-DataLoader", "0-DataLoader", "{AAA88054-4B3F-49E4-B4A6-C4EA86630F71}"
+	ProjectSection(SolutionItems) = preProject
+		DMA_Processor_V5.0.ps1 = DMA_Processor_V5.0.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-PowerBI", "1-PowerBI", "{0A4CC186-BFF9-41D8-900D-67A60A87B050}"
+	ProjectSection(SolutionItems) = preProject
+		DMA v3.1.pbit = DMA v3.1.pbit
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
